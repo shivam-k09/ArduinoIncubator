@@ -1,2 +1,2 @@
 # ArduinoIncubator
-Arduino based incubator eggs or microbiological samples
+Arduino based incubator for eggs or microbiological samples
